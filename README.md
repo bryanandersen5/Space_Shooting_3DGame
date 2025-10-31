@@ -1,48 +1,60 @@
 ## 🚀 `3D Space Shooting Game`
 
-![Language](https://img.shields.io/badge/C%2B%2B-Project-blue?style=for-the-badge&logo=c%2B%2B)
+![Language](https://img.shields.io/badge/Processing-Project-blue?style=for-the-badge&logo=processing)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Console%20App-lightgrey?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Graphics%20%26%20Game%20Logic-orange?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-2D%2F3D%20Arcade%20Shooter-lightgrey?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Graphics%20%26%20Collision%20Logic-orange?style=for-the-badge)
 
 ---
 
 ### 🎯 `Why I Made This Project`
-- To explore **game development fundamentals** using C++  
-- To practice **real-time input handling**, **collision detection**, and **basic rendering**  
-- To build a fun and interactive **space-themed shooting experience**
+- To explore **game development** using Java Processing  
+- To practice **real-time input**, **object interaction**, and **visual effects**  
+- To build a fast-paced, interactive **space shooter** with modular components
 
 ---
 
 ### 🧠 `Purpose of the Project`
 - Allow players to:
-  - `Control` a spaceship and navigate a 2D/3D space  
-  - `Shoot` projectiles to destroy enemies  
-  - `Avoid` incoming enemy fire and obstacles  
-  - `Track` score and health during gameplay  
+  - `Control` a spaceship and navigate space  
+  - `Shoot` bullets to destroy enemies  
+  - `Avoid` enemy fire and explosions  
+  - `Track` score and survive as long as possible  
 
 ---
 
 ### ⚙️ `What This Project Does`
-- Initializes a player spaceship with movement and shooting controls  
-- Spawns enemies with basic AI and movement patterns  
-- Detects collisions between bullets and enemies  
-- Tracks player health and score  
-- Displays game-over screen when health reaches zero  
-- Includes sound effects and visual feedback for actions  
+- Initializes player, enemy, bullet, and explosion objects  
+- Handles movement, shooting, and collision detection  
+- Spawns enemies and enemy bullets dynamically  
+- Tracks score and game state  
+- Displays visual effects and animations for hits and explosions  
+- Includes modular `.pde` files for clean organization  
 
 ---
 
 ### 🚀 `Future Development Goals`
 - Add **power-ups** and weapon upgrades  
-- Implement **multiple levels** with increasing difficulty  
-- Introduce **boss battles** and enemy variety  
-- Refactor into **modular classes** for scalability  
-- Add **menu system** and pause/resume functionality  
+- Implement **level progression** and difficulty scaling  
+- Introduce **boss enemies** and unique attack patterns  
+- Add **menu system**, pause/resume, and sound effects  
+- Refactor into **OOP classes** for better scalability  
 
 ---
 
 ### 📁 `File Overview`
 ```
-
+📦 Space_Shooting_3DGame/
+ ┣ 📁 data
+   ┣ 📄 background_music.mp3
+   ┣ 📄 explosion.mp3
+   ┣ 📄 shoot.mp3
+   ┣ 📄 spaceship_coordinates.txt
+ ┣ 📁 Gameplay Video
+   ┣ 📄 Youtube Video Link.txt
+ ┣ 📄 Bullet.pde
+ ┣ 📄 Enemy.pde
+ ┣ 📄 EnemyBullet.pde
+ ┣ 📄 Explosion.pde
+ ┗ 📄 Project_sp25_AndersenB.pde
 ```
