@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Processing-Project-blue?style=for-the-badge&logo=processing)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-2D%2F3D%Spaceship%20Shooter-lightgrey?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-2D%2F3D%Arcade%20Shooter-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Graphics%20%26%20Collision%20Logic-orange?style=for-the-badge)
 
 ---
