@@ -1,6 +1,6 @@
 ## 🚀 `3D Space Shooting Game`
 
-![Language](https://img.shields.io/badge/Processing-Project-blue?style=for-the-badge&logo=processing)
+![Language](https://img.shields.io/badge/Project-Processing-blue?style=for-the-badge&logo=processing)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-2D%2F3D%2FSpaceship%20Shooter-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Graphics%20%26%20Collision%20Logic-orange?style=for-the-badge)
